@@ -6,6 +6,7 @@ this is for printer!
 2. edit
 3. save
 4. close
+5. document
 
 ``` net start ```
 
